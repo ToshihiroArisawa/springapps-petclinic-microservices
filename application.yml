@@ -3,7 +3,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/ToshihiroArisawa/springapps-petclinic-microservices
+          uri: https://github.com/ToshihiroArisawa/springapps-petclinic-microservices-config
         native:
           search-locations: classpath:.
   profiles:
